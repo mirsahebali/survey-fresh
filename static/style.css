@@ -1,0 +1,23 @@
+.alegreya-font {
+	font-family: "Alegreya", serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
+body {
+	padding-top: 150px;
+	padding-bottom: 300px;
+	margin: 0px;
+	background-image: url("./images/img2.jpeg");
+	/* backdrop-filter: blur(5px); */
+	/* background-size: cover; */
+	overflow: hidden;
+
+}
+
+/**/
+/* .background-tint { */
+/* 	background-color: rgba(200, 100, 0, .5); */
+/* 	background-blend-mode: multiply; */
+/* } */
