@@ -8,5 +8,5 @@ func main() {
 	http.ListenAndServe(":8000", mux)
 }
 func foo(w http.ResponseWriter, r *http.Request) {
-	w.Write([]byte("Foo"))
+	w.Write([]byte("Foo recieved"))
 }
