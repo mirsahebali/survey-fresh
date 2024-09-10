@@ -1,3 +1,3 @@
 module github.com/mirsahebali/survey-fresh
 
-go 1.19.13
+go 1.23
